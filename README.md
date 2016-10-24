@@ -1,1 +1,1 @@
-This repository contains my code solutions for the Code 2050 Technical Assessment
+This repository contains my code solutions for the Code 2040 Technical Assessment
